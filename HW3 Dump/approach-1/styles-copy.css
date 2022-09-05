@@ -1,0 +1,67 @@
+
+.image{
+    margin-top: 500px;
+    width: 300px;
+    height: 500px;
+    margin-right: 139px;
+    margin-left: 540px;
+    object-fit: cover;
+    scale: 2.3;
+} 
+
+.header{
+    border: 3px solid black;
+    margin-top: 65px;
+    margin-left: 220px;
+    margin-right: 220px;
+    width: 1080px;
+    height: 210px;
+}
+
+.icon{
+    margin: 10px;
+}
+
+.socialMedia{
+    margin-top: 20px;
+    display: flex;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+a{
+    text-decoration: none;
+    font-style: italic;
+}
+
+a:link {
+    color: darkgrey;
+  }
+a:visited {
+    color: darkgrey;
+}
+a:hover {
+    color: black;
+}
+a:active {
+    color: black;
+}
+
+#copyright{
+    margin-top: 20px;
+    font-style: italic;
+    font-size:medium;
+    color: grey ;
+    overflow: hidden;
+}
+
+#heading{
+    font-size: 95px;
+    margin: 25px 50px 0px 310px;
+}
+
+#links{
+    margin: 10px 50px 0px 400px;
+    font-size: 25px;
+}
+
